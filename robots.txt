@@ -1,0 +1,3 @@
+Sitemap: https://prss-io.github.io/demo-press-theme/sitemap.xml
+User-agent:*
+Disallow:
